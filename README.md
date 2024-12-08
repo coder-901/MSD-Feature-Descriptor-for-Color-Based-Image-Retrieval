@@ -1,0 +1,6 @@
+# Firebase-project
+**Building our first project for deployment**
+
+We are going to deploy an application using firebase that will encompass all our skills like machine learning, dbms, sql, front end, etc....
+
+Let's deep dive into the world of development...
